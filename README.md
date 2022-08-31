@@ -1,4 +1,4 @@
-# Analisis_Sentimiento
+# Feeling_Analysis
 
 1.Preprocess: Here we are going to clean our data. The pourpose is prepare it for training, balance targets, delete stopwords, lemmatize, replace emojis, tokenize...We have to know about nltk library.
 
